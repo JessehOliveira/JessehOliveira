@@ -22,11 +22,11 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCrl2fLdFeolxL4DDpaogPfA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://instagram.com/jesse.oliv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- <a href="https://discord.gg/Jessé Oliveira - Dev Boletos#5534" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
-  <a href="mailto:jesse.oliveira@superlogica.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/jesseh-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.youtube.com/channel/UCrl2fLdFeolxL4DDpaogPfA" target="_blank"><img src="https://raw.githubusercontent.com/JessehOliveira/JessehOliveira/main/icons/youtube.svg"></a>
+  <a href="https://instagram.com/jesse.oliv" target="_blank"><img src="https://raw.githubusercontent.com/JessehOliveira/JessehOliveira/main/icons/instagram.svg"></a>
+  <a href="https://discord.gg/Jessé Oliveira - Dev Boletos#5534" target="_blank"><img src="https://raw.githubusercontent.com/JessehOliveira/JessehOliveira/main/icons/discord.svg"></a> 
+  <a href="mailto:jesse.oliveira@superlogica.com"><img src="https://raw.githubusercontent.com/JessehOliveira/JessehOliveira/main/icons/gmail.svg"></a>
+  <a href="https://www.linkedin.com/in/jesseh-oliveira/" target="_blank"><img src="https://raw.githubusercontent.com/JessehOliveira/JessehOliveira/main/icons/linkedin.svg"></a> 
  
   ![Snake animation](https://raw.githubusercontent.com/JessehOliveira/JessehOliveira/main/icons/github-contribution-grid-snake.svg)
  
